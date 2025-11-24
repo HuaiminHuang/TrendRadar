@@ -25,7 +25,7 @@ crawler:
 
 # 推送模式选择
 report:
-  mode: "incremental" # 切换为增量模式，每3小时只推送新出现的热点，避免信息冗余
+  mode: "daily" # 切换为增量模式，每3小时只推送新出现的热点，避免信息冗余
   rank_threshold: 5 # 排名高亮阈值
 
 notification:
