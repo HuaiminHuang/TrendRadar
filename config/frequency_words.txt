@@ -1,110 +1,112 @@
-胖东来
-于东来
+# 核心AI理论/模型
+ai
+人工智能
+大模型
+LLM
+机器学习
+深度学习
+AGI
+多模态
+Transformer
+!gai
 
+# AI公司/产品 - 国际
+openai
+chatgpt
+sora
+google
+gemini
+deepmind
+claude
+Anthropic
 DeepSeek
 梁文锋
 
-华为
-鸿蒙
-HarmonyOS
-任正非
-
-比亚迪
-王传福
-
-大疆
-DJI
-
-宇树
-王兴兴
-
+# AI公司/产品 - 国内
 智元
 灵犀
 稚晖君
 彭志辉
 
+# 硬件/芯片
+英伟达
+NVIDIA
+黄仁勋
+AMD
+芯片
+光刻机
+
+# 操作系统/平台
+华为
+鸿蒙
+HarmonyOS
+任正非
+
+# 消费电子
+iphone
+ipad
+mac
+ios
+特斯拉
+马斯克
+
+# 智能汽车/机器人
+比亚迪
+王传福
+大疆
+DJI
+宇树
+王兴兴
+自动驾驶
+机器人
+
+# 软件/开发框架
+PyTorch
+TensorFlow
+
+# AI+Finance
+量化
+量化交易
+
+# 科技巨头
+微软
+Microsoft
+字节
+bytedance
+张一鸣
+京东
+刘强东
+
+# 国家/地缘科技
+国产
+中国
+美国
+日本
+韩国
+
+# 文娱/游戏
 黑神话
 冯骥
-
 影之刃零
 梁其伟
-
 哪吒
 饺子
 杨宇
 !车
 !餐
-
 三体
 流浪地球
 刘慈欣
 郭帆
 
+# 宏观/政策
+新质生产力
 申奥
 
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
-
-ai
-!gai
-人工智能
-
-自动驾驶
-
-机器人
-
-国产
-中国
-
-美国
-日本
-韩国
-
-芯片
-光刻机
-
-科技
-
+# 基础科学
 核能
-
 水电站
 雅鲁藏布江
-
-新质生产力
-
 月球
 登月
 火星
