@@ -25,7 +25,7 @@ crawler:
 
 # 推送模式选择
 report:
-  mode: "daily" # 保持 daily 模式，提供每日完整报告。可根据需要切换为 incremental
+  mode: "incremental" # 切换为增量模式，每3小时只推送新出现的热点，避免信息冗余
   rank_threshold: 5 # 排名高亮阈值
 
 notification:
@@ -42,7 +42,7 @@ notification:
   #   - 只想在工作日白天接收推送（如 09:00-18:00）
   #   - 希望在晚上固定时间收到汇总（如 20:00-22:00）
   push_window:
-    enabled: true  # 启用推送时间窗口，避免打扰
+    enabled: false  # 已禁用推送时间窗口，以实现全天候推送
     # 注意：GitHub Actions 执行时间不稳定，时间范围建议至少留足 2 小时
     # 如果想要精准的定时推送，建议使用 Docker 部署在个人服务器上
     time_range:
