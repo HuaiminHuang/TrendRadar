@@ -8,7 +8,14 @@ LLM
 AGI
 多模态
 Transformer
+端侧模型
+AI Agent
+SOTA
 !gai
+!招聘
+!求职
+!培训
+!课程
 
 # AI公司/产品 - 国际
 openai
@@ -20,6 +27,8 @@ deepmind
 claude
 Anthropic
 DeepSeek
+Mistral
+Llama
 梁文锋
 
 # AI公司/产品 - 国内
@@ -27,6 +36,8 @@ DeepSeek
 灵犀
 稚晖君
 彭志辉
+Kimi
+月之暗面
 
 # 硬件/芯片
 英伟达
@@ -35,6 +46,8 @@ NVIDIA
 AMD
 芯片
 光刻机
+CUDA
+ROCm
 
 # 操作系统/平台
 华为
@@ -63,6 +76,7 @@ DJI
 # 软件/开发框架
 PyTorch
 TensorFlow
+LangChain
 
 # AI+Finance
 量化
@@ -76,6 +90,11 @@ bytedance
 张一鸣
 京东
 刘强东
+Apple
+Amazon
+Meta
+Tencent
+Alibaba
 
 # 国家/地缘科技
 国产
@@ -84,20 +103,9 @@ bytedance
 日本
 韩国
 
-# 文娱/游戏
-黑神话
-冯骥
-影之刃零
-梁其伟
-哪吒
-饺子
-杨宇
-!车
-!餐
-三体
-流浪地球
-刘慈欣
-郭帆
+# 开源/社区
+Hugging Face
+GitHub Copilot
 
 # 宏观/政策
 新质生产力

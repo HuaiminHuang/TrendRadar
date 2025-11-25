@@ -25,7 +25,7 @@ crawler:
 
 # 推送模式选择
 report:
-  mode: "daily" # 切换为增量模式，每3小时只推送新出现的热点，避免信息冗余
+  mode: "incremental" # 切换为增量模式，每3小时只推送新出现的热点，避免信息冗余
   rank_threshold: 5 # 排名高亮阈值
 
 notification:
@@ -72,8 +72,8 @@ notification:
 # 作为工程师，我们更关心持续发酵的深度话题，而非昙花一现的爆点。
 # 因此，调高“频次权重”，让那些反复出现、真正重要的话题排名更靠前。
 weight:
-  rank_weight: 0.5 # 排名权重
-  frequency_weight: 0.4 # 频次权重
+  rank_weight: 0.6 # 排名权重
+  frequency_weight: 0.3 # 频次权重
   hotness_weight: 0.1 # 热度权重
 
 # name 可以定义任意名称，只具有显示作用，即使项目运行了几天后，忽然改掉 name 也不会影响代码的正常运行
